@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 
 class App extends Component {
   render(){
-    // const greeting = 'Hi';
-    // const dom = <h1 className="foo">{ greeting }</h1>;
+    // const greeting = 'Hi, Tom!';
+    // const dom = <h1 className="foo" onClick={() => {console.log('test')}}>{ greeting }</h1>;
     // return dom;
 
     return (
